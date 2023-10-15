@@ -27,5 +27,4 @@ Data Visualization:
 Machine Learning Algorithms:  
 •	Utilize machine learning algorithms, specifically random forests, to tackle the multiclass cancer classification problem.   
 Model evaluation:  
-•	Employ various performance metrics, including Accuracy, Precision, Recall, F1 Score, Confusion Matrix, and ROC Curve, to evaluate the classifier's performance.  
-(https://github.com/HassanWaheedGithub/Project/assets/122938252/30753be6-68ef-48ca-a5dd-b269ba78faaf)  
+•	Employ various performance metrics, including Accuracy, Precision, Recall, F1 Score, Confusion Matrix, and ROC Curve, to evaluate the classifier's performance.   
