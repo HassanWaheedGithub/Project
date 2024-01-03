@@ -1,5 +1,5 @@
-# Project  
-Cancer prediction using mRNA expression  
+# Cancer prediction using mRNA expression
+ 
 Project Title:  
 Gene Expression Cancer RNA-Seq  
 Project Scope:  
